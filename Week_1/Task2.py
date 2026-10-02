@@ -1,7 +1,7 @@
 student_name = input("Enter your name: ")
 student_ID = input("Enter your ID: ")
 department = input("Enter your department: ")
-year = int(input("Enter your akademic year: "))
+year = int(input("Enter your academic year: "))
 university = input("Enter your University: ")
 phone_number = input("Enter your phone number: ")
 
