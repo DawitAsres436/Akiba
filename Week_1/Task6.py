@@ -3,8 +3,8 @@ Base_salary = float(input("Enter employee's Base Salary: "))
 Transport_allowance = float(input("Enter employee's Transport allowance: "))
 Food_allowance = float(input("Enter Employee's food allowance: "))
 
-DoubleLine = "===================================="
-line = "----------------------"
+DoubleLine = "============================================"
+line = "------------------------------------"
 
 Gross_salary = Base_salary + Transport_allowance + Food_allowance
 
